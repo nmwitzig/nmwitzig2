@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: profile.png
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <a href="https://twitter.com/nmwitzig" title="Twitter"><i class="fab fa-twitter"></i></a>
+    <a href="https://github.com/nmwitzig" title="GitHub"><i class="fab fa-github"></i></a>
+    <a href="mailto:niklas.witzig@uni-mainz.de" title="E-Mail"><i class="fa fa-envelope"></i></a>
 
 news: False  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
@@ -22,10 +22,12 @@ I am a PhD student at the Johannes Gutenberg University in Mainz, Germany at [th
 
 I am interested in Behavioral and Experimental Economics.
 
+&nbsp;
+&nbsp;
 
-## Ongoing Projects
+### Ongoing Projects
 
-### Behavioral Time Allocation
+#### Behavioral Time Allocation
 *with Alexander Dzionara*<br>
 [[pre-registration]](https://www.socialscienceregistry.org/trials/7748) [*draft in preparation*]
 
@@ -36,7 +38,8 @@ I am interested in Behavioral and Experimental Economics.
 </details>
 -->
 
-### Cognitive Imprecision and Social Preferences
+#### Cognitive Imprecision and Social Preferences
+*single-authored*
 
 <!--
 [[Project Page]](/projects/projects-2)<br>
@@ -48,7 +51,7 @@ In this project, I
 </details>
 -->
 
-### Strategic Uncertainty and Time Pressure in Professional Chess
+#### Strategic Uncertainty and Time Pressure in Professional Chess
 *with Johannes Carow*<br>
 [*draft in preparation*]
 
@@ -62,7 +65,7 @@ In this project, we
 </details>
 -->
 
-### Trust in Fair Algorithms
+#### Trust in Fair Algorithms
 *with Mattia Cerrato, Marius Köppel and Alesia Vallenas*<br>
 
 <!--
