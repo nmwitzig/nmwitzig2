@@ -1,8 +1,4 @@
-
-<html>
-<body>
-
-
+<p>
 <?php
 
 header('Location: https://share.streamlit.io/nmwitzig/streamlit-chess/main/app.py');
@@ -10,6 +6,4 @@ header('Location: https://share.streamlit.io/nmwitzig/streamlit-chess/main/app.p
 exit;
 
 ?>
-
-</body>
-</html>
+</p>
