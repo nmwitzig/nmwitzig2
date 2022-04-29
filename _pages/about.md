@@ -53,7 +53,7 @@ In this project, I
 
 #### Strategic Uncertainty and Time Pressure in Professional Chess
 *with Johannes Carow*<br>
-[*draft in preparation*]
+[[Web-App]](https://share.streamlit.io/nmwitzig/streamlit-chess/main/app.py) [*draft in preparation*]
 
 <!--
 [[Project Page]](/projects/projects-3) [*draft in preparation*]<br>
