@@ -20,12 +20,13 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student at the Johannes Gutenberg University in Mainz, Germany at [the chair of Daniel Schunk](https://www.public.economics.uni-mainz.de).
 
-I am interested in Behavioral and Experimental Economics and applying Machine Learning techniques in these contexts.
+I am interested in Behavioral and Experimental Economics and how to use Machine Learning techniques in these contexts. .
 
 &nbsp;
 &nbsp;
 
 ### Ongoing Projects
+*[You can find a poster summarizing my main projects here](../poster.pdf)*
 
 #### Behavioral Time Allocation
 *with Alexander Dzionara*<br>
