@@ -26,7 +26,6 @@ I am interested in Behavioral and Experimental Economics and using Machine Learn
 &nbsp;
 
 ### Ongoing Projects
-
 *[You can find a poster summarizing some of my projects here](../pdf/poster.pdf)*
 
 
@@ -42,7 +41,7 @@ I am interested in Behavioral and Experimental Economics and using Machine Learn
 -->
 
 #### Cognitive Imprecision and Social Preferences
-*single-authored*
+*single-authored*<br>
 [[Extended Abstract]](../pdf/imprecision_ea.pdf)
 &nbsp;
 <!--
