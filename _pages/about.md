@@ -27,7 +27,7 @@ I am interested in Behavioral and Experimental Economics and using Machine Learn
 
 ### Ongoing Projects
 
-*[You can find a poster summarizing some of my projects here](../poster.pdf)*
+*[You can find a poster summarizing some of my projects here](../pdf/poster.pdf)*
 
 
 #### Behavioral Time Allocation
@@ -44,6 +44,8 @@ I am interested in Behavioral and Experimental Economics and using Machine Learn
 #### Cognitive Imprecision and Social Preferences
 *single-authored*
 
+[Extended Abstract](../pdf/imprecision_ea.pdf)
+
 <!--
 [[Project Page]](/projects/projects-2)<br>
 <details>
@@ -56,6 +58,7 @@ In this project, I
 
 #### Strategic Uncertainty and Time Pressure in Professional Chess
 *with Johannes Carow*<br>
+
 [[Web-App]](https://share.streamlit.io/nmwitzig/streamlit-chess/main/app.py) [*draft in preparation*]
 
 <!--
