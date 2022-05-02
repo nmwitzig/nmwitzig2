@@ -2,12 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:  
 nav: true
 nav_order: 6
 ---
 
 ### Summer 2022: Tutorial Behavioral Economics
+[[Web-App Tutorial]](https://share.streamlit.io/nmwitzig/beh_econ_streamlit/st_talk_slides.py)
 
 This weekly tutorial accompanies the lecture, which covers central methods and concepts of behavioral economics at an advanced level. We first discuss models of economic decision behavior. Then, we will present evidence from laboratory and field experiments in economics and psychology which has led to alternative descriptive models of behavior. In this context, we will also discuss how the modern empirical toolbox of behavioral economists can help to obtain causal evidence on the determinants of human behavior. Finally, we will also briefly discuss recent advances in behavioral economics, such as Neuro- and Genoeconomics. 
 
