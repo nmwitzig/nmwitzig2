@@ -33,6 +33,7 @@ I am interested in Behavioral and Experimental Economics and using Machine Learn
 *with Alexander Dzionara*<br>
 [[pre-registration]](https://www.socialscienceregistry.org/trials/7748) [*draft in preparation*]
 &nbsp;
+
 <!--
 <details>
 <summary>[Summary]</summary>
@@ -44,6 +45,7 @@ I am interested in Behavioral and Experimental Economics and using Machine Learn
 *single-authored*<br>
 [[Extended Abstract]](../pdf/imprecision_ea.pdf)
 &nbsp;
+
 <!--
 [[Project Page]](/projects/projects-2)<br>
 <details>
@@ -58,6 +60,7 @@ In this project, I
 *with Johannes Carow*<br>
 [[Web-App]](https://share.streamlit.io/nmwitzig/streamlit-chess/main/app.py) [*draft in preparation*]
 &nbsp;
+
 <!--
 [[Project Page]](/projects/projects-3) [*draft in preparation*]<br>
 <details>
@@ -71,6 +74,7 @@ In this project, we
 #### Trust in Fair Algorithms
 *with Mattia Cerrato, Marius Köppel and Alesia Vallenas*<br>
 &nbsp;
+
 <!--
 <details>
 <summary>[Summary]</summary> 
