@@ -41,10 +41,12 @@ I am interested in Behavioral and Experimental Economics and using Machine Learn
 </details>
 -->
 
+
 #### Cognitive Imprecision and Social Preferences
-*single-authored*<br>
+<!--
 [[Extended Abstract]](../pdf/imprecision_ea.pdf)
 &nbsp;
+-->
 
 <!--
 [[Project Page]](/projects/projects-2)<br>
