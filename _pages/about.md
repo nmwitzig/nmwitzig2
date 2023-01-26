@@ -26,8 +26,9 @@ I am interested in Behavioral and Experimental Economics and using Machine Learn
 &nbsp;
 
 ### Ongoing Projects
-*[You can find a poster summarizing some of my projects here](https://www.gutenberg-akademie.uni-mainz.de/files/2022/05/Witzig_poster_Komprimiert.pdf)*
 
+<!--*[You can find a poster summarizing some of my projects here](https://www.gutenberg-akademie.uni-mainz.de/files/2022/05/Witzig_poster_Komprimiert.pdf)*
+-->
 
 #### Behavioral Time Allocation
 *with Alexander Dzionara*<br>
@@ -42,8 +43,8 @@ I am interested in Behavioral and Experimental Economics and using Machine Learn
 -->
 
 
-#### Cognitive Imprecision and Social Preferences
 <!--
+#### Cognitive Imprecision and Social Preferences
 [[Extended Abstract]](../pdf/imprecision_ea.pdf)
 &nbsp;
 -->
