@@ -43,7 +43,7 @@ In many economic contexts, people need to solve trade-offs between doing an acti
 #### Strategic Uncertainty and Time Pressure in Professional Chess
 *with Johannes Carow*<br>
 [[Web-App]](https://share.streamlit.io/nmwitzig/streamlit-chess/main/app.py) [*draft available upon request*] <a data-toggle="collapse" href="#collapse_chess" class="collapsed" aria-expanded="false">[abstract]</a>
-<div id="collapse_chess" class="panel-collapse collapse" style=""> <text style="font-size:smaller" text-align: justify text-justify: inter-word>
+<div id="collapse_chess" class="panel-collapse collapse" style=""> <text style="font-size:smaller">
 Strategic decisions often need to be made under considerable time pressure. While the literature has studied the effect of time pressure in laboratory settings in various domains, much less is known about how highly proficient decision-makers react to time pressure in high-stake settings. Here, we address this gap and study the impact of time pressure on strategic decisions by **professional chess players*. We propose a novel machine-learning-based measure for the move-specific degree of strategic uncertainty in chess. We apply our measure to the 2013-2021 FIDE Chess World Cups which allow for exogenous variation in thinking time. We find that time pressure consistently leads chess players to opt for uncertainty-averse moves more frequently. In addition, we find correlational evidence for strategic loss aversion. Our results suggest that also high-proficiency decision-makers react to context factors such as time pressure. We discuss whether these effects originate from genuine preference shifts or adaptations of the allocation of time during a chess game.
 </text></div>
 
