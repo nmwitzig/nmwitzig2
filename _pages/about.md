@@ -17,6 +17,10 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
 
 I am a PhD student at the Johannes Gutenberg University in Mainz, Germany at [the chair of Daniel Schunk](https://www.public.economics.uni-mainz.de).
 
@@ -91,6 +95,19 @@ In this project, we
 *with Mattia Cerrato, Marius Köppel and Alesia Vallenas*<br>
 &nbsp;
 
+
+
+
+
+<div class="container">
+  <h2>Simple Collapsible</h2>
+  <a href="#demo" class="btn btn-info" data-toggle="collapse">Simple collapsible</a>
+  <div id="demo" class="collapse">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  </div>
+</div>
 
 <!--
 <details>
