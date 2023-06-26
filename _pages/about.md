@@ -16,10 +16,8 @@ news: False  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
 
 I am a PhD student at the Johannes Gutenberg University in Mainz, Germany at [the chair of Daniel Schunk](https://www.public.economics.uni-mainz.de).
@@ -70,9 +68,7 @@ In this project, I
 
 #### Strategic Uncertainty and Time Pressure in Professional Chess
 *with Johannes Carow*<br>
-[[Web-App]](https://share.streamlit.io/nmwitzig/streamlit-chess/main/app.py) [*draft in preparation*]
-
-<a data-toggle="collapse" href="#collapse_chess" style="color: black" class="collapsed" aria-expanded="false">[abstract]</a>
+[[Web-App]](https://share.streamlit.io/nmwitzig/streamlit-chess/main/app.py) [*draft in preparation*] <a data-toggle="collapse" href="#collapse_chess" style="color: black" class="collapsed" aria-expanded="false">[abstract]</a>
 <div id="collapse_chess" class="panel-collapse collapse" style=""> <text style="font-size:smaller">
 Test Abstract
 </text></div>
