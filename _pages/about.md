@@ -67,6 +67,13 @@ In this project, I
 #### Strategic Uncertainty and Time Pressure in Professional Chess
 *with Johannes Carow*<br>
 [[Web-App]](https://share.streamlit.io/nmwitzig/streamlit-chess/main/app.py) [*draft in preparation*]
+<a data-toggle="collapse" href="#collapse_chess" style="color: black" class="collapsed" aria-expanded="false">
+                [abstract]</a>
+                <div id="collapse_chess" class="panel-collapse collapse" style="">
+<text style="font-size:smaller">
+Test Abstract
+</text> </div>
+
 &nbsp;
   
 
