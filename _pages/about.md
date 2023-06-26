@@ -25,8 +25,9 @@ I do research in Behavioral and Experimental Economics.
 &nbsp;
 &nbsp;
 
-### Ongoing Projects
-
+## Ongoing Projects
+&nbsp;
+\ 
 <!--*[You can find a poster summarizing some of my projects here](https://www.gutenberg-akademie.uni-mainz.de/files/2022/05/Witzig_poster_Komprimiert.pdf)*
 -->
 
@@ -34,6 +35,7 @@ I do research in Behavioral and Experimental Economics.
 *with Alexander Dzionara*<br>
 [[pre-registration]](https://www.socialscienceregistry.org/trials/7748) [*draft in preparation*]
 &nbsp;
+\ 
 
 <!--
 <details>
@@ -43,11 +45,13 @@ I do research in Behavioral and Experimental Economics.
 -->
 
 
-<!--
-#### Cognitive Imprecision and Social Preferences
-[[Extended Abstract]](../pdf/imprecision_ea.pdf)
+
+#### Cognitive Imprecision and Altruistic Preferences
+[*draft in preparation*]
 &nbsp;
--->
+\ 
+
+
 
 
 <!--
@@ -64,6 +68,8 @@ In this project, I
 *with Johannes Carow*<br>
 [[Web-App]](https://share.streamlit.io/nmwitzig/streamlit-chess/main/app.py) [*draft in preparation*]
 &nbsp;
+\ 
+
 
 <!--
 [[Project Page]](/projects/projects-3) [*draft in preparation*]<br>
@@ -78,6 +84,7 @@ In this project, we
 #### Trust in Fair Algorithms
 *with Mattia Cerrato, Marius Köppel and Alesia Vallenas*<br>
 &nbsp;
+
 
 <!--
 <details>
