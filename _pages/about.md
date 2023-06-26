@@ -90,19 +90,6 @@ In this project, we
 &nbsp;
 
 
-
-
-
-<div class="container">
-  <h2>Simple Collapsible</h2>
-  <a href="#demo" class="btn btn-info" data-toggle="collapse">Simple collapsible</a>
-  <div id="demo" class="collapse">
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  </div>
-</div>
-
 <!--
 <details>
 <summary>[Summary]</summary> 
