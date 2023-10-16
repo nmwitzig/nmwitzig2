@@ -34,7 +34,7 @@ I do research in Behavioral and Experimental Economics.
 #### Cognitive Imprecision and Altruistic Preferences
 [*draft in preparation*]
 <a data-toggle="collapse" href="#collapse_noise" class="collapsed" aria-expanded="false">[abstract]</a>
-<div id="collapse_noise" class="panel-collapse collapse" style=""> <text style="font-size:smaller">
+<div id="collapse_noise" class="panel-collapse collapse" style=""> <text style="font-size:smaller; text-justify: auto">
 I study altruistic choices --- trading-off own vs. another persons's payoff --- through the lens of a cognitively noisy Bayesian decision-maker. I propose a simple choice framework where cognitive noise can bias altruistic decisions. I run an experiment featuring a between-subject manipulation of cognitive noise, where the altruistic trade-off is cognitively more difficult. The treatment group shows a flatter association between changes in payoffs and choices and decides significantly more often for the other person's payment, i.e., is more altruistic. I explore the origins of this effect both with Bayesian hierarchical modelling and a number-comparison task, mirroring the "arithmetics" of the altruism choices absent any preference dimension. I find comparable treatment effects, which hints at an adaption of the perception of numerical magnitudes to the statistics of the experiment trials as the driver of the treatment effect. The structural estimations support this interpretation. I further explore the implications of a "cognitive lens" to altruism decisions and, e.g., find positive associations between measures of cognitive ability and choice variability.
 </text></div>
 
