@@ -35,17 +35,25 @@ I do research in Behavioral and Experimental Economics.
 [*draft in preparation*]
 <a data-toggle="collapse" href="#collapse_noise" class="collapsed" aria-expanded="false">[abstract]</a>
 <div id="collapse_noise" class="panel-collapse collapse" style=""> <text style="font-size:smaller">
-I study altruistic choices --- trading-off own vs. another persons's payoff --- through the lens of a cognitively noisy Bayesian decision-maker. I propose a simple choice framework where cognitive noise can bias altruistic decisions. I run an experiment featuring a between-subject manipulation of cognitive noise, where the altruistic trade-off is cognitively more difficult. The treatment group shows a flatter association between changes in payoffs and choices and decides significantly more often for the other person's payment, i.e., is more altruistic. I explore the origins of this effect both with structural estimations and a number-comparison task, mirroring the "arithmetics" of the altruism choices absent any preference dimension. I find comparable treatment effects, which hints at an adaption of the perception of numerical magnitudes to the statistics of the experiment trials as the driver of the treatment effect. The structural estimations support this interpretation. I further explore the implications of a "cognitive lens" to altruism decisions and, e.g., find positive associations between measures of cognitive ability and choice variability.
+I study altruistic choices --- trading-off own vs. another persons's payoff --- through the lens of a cognitively noisy Bayesian decision-maker. I propose a simple choice framework where cognitive noise can bias altruistic decisions. I run an experiment featuring a between-subject manipulation of cognitive noise, where the altruistic trade-off is cognitively more difficult. The treatment group shows a flatter association between changes in payoffs and choices and decides significantly more often for the other person's payment, i.e., is more altruistic. I explore the origins of this effect both with Bayesian hierarchical modelling and a number-comparison task, mirroring the "arithmetics" of the altruism choices absent any preference dimension. I find comparable treatment effects, which hints at an adaption of the perception of numerical magnitudes to the statistics of the experiment trials as the driver of the treatment effect. The structural estimations support this interpretation. I further explore the implications of a "cognitive lens" to altruism decisions and, e.g., find positive associations between measures of cognitive ability and choice variability.
 </text></div>
 
 &nbsp;
 
-#### Strategic Uncertainty and Time Pressure in Professional Chess
+#### Trust in Fair Algorithms
+*with Mattia Cerrato, Marius Köppel and Alesia Vallenas*<br>
+[*pilot soon*] <a data-toggle="collapse" href="#collapse_ai" class="collapsed" aria-expanded="false">[abstract]</a>
+<div id="collapse_ai" class="panel-collapse collapse" style=""> <text style="font-size:smaller">
+We study how humans incorporate advice by an algorithm in a setting where gender biases are known to play a large role: hiring decisions and labor market outcomes. In an online experiment, we investigate if humans, when tasked to predict e.g., the employment status of another person, rely more strongly on predictions by *fair* algorithms, i.e., whose accuracy is the same regardless of gender. Crucially, we omit the sensitive attribute of the person at hand for both the human and machine. We furthermore investigate the role of prior beliefs of group differences and are able to capture the optimal Bayesian action and can compare if human behavior favors fair predictions beyond what is statistically optimal.
+</text></div>
+
+
+#### Strategic Risk-Taking and Time Pressure in Professional Chess
 *with Johannes Carow*<br>
 [[Web-App]](https://share.streamlit.io/nmwitzig/streamlit-chess/main/app.py) [*draft available upon request*] <a data-toggle="collapse" href="#collapse_chess" class="collapsed" aria-expanded="false">[abstract]</a>
 <div id="collapse_chess" class="panel-collapse collapse" style=""> <text style="font-size:smaller">
-Strategic decisions often need to be made under considerable time pressure. While the literature has studied the effect of time pressure in laboratory settings in various domains, much less is known about how highly proficient decision-makers react to time pressure in high-stake settings. Here, we address this gap and study the impact of time pressure on strategic decisions by professional chess players. We propose a novel machine-learning-based measure for the move-specific degree of strategic uncertainty in chess. We apply our measure to the 2013-2021 FIDE Chess World Cups which allow for exogenous variation in thinking time. We find that time pressure consistently leads chess players to opt for uncertainty-averse moves more frequently. In addition, we find correlational evidence for strategic loss aversion. Our results suggest that also high-proficiency decision-makers react to context factors such as time pressure. We discuss whether these effects originate from genuine preference shifts or adaptations of the allocation of time during a chess game.
-</text></div>
+
+We study the impact of time pressure on strategic risk-taking of professional chess players. We propose a novel machine-learning-based measure for the degree of strategic risk of a single chess move and apply this measure to games of the 2013-2021 FIDE Chess World Cups. Crucially, this tournament allows for an arguably exogenous variation in available thinking time to a chess player. We find that time pressure consistently leads chess players to opt for risk-averse moves more frequently. In addition, we find correlational evidence for strategic loss aversion, a tendency to play more risky moves after a mistake or when in a disadvantageous position. Our results suggest that high-proficiency decision- makers in high stake settings react to context factors such as time pressure.</text></div>
 
 &nbsp;
 
@@ -74,9 +82,6 @@ In this project, we
 </details>
 -->
 
-#### Trust in Fair Algorithms
-*with Mattia Cerrato, Marius Köppel and Alesia Vallenas*<br>
-&nbsp;
 
 
 <!--
