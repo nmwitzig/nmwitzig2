@@ -20,13 +20,12 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student at the Johannes Gutenberg University in Mainz, Germany at [the chair of Daniel Schunk](https://www.public.economics.uni-mainz.de).
 
-I do research in Behavioral and Experimental Economics.
+I do research in Behavioral and Experimental Economics. Im interested in how cognitive models can inform economic decision making and how machine learning methods and tools can benefit economic analysis. Both interests come together in my work on how humans incorporate algorithmic advice.
 
 &nbsp;
 &nbsp;
 
 ## Ongoing Projects
-&nbsp;
 
 <!--*[You can find a poster summarizing some of my projects here](https://www.gutenberg-akademie.uni-mainz.de/files/2022/05/Witzig_poster_Komprimiert.pdf)*
 -->
