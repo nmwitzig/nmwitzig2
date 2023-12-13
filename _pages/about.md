@@ -31,7 +31,7 @@ I do research in Behavioral and Experimental Economics. Im interested in how cog
 -->
 
 #### Cognitive Imprecision and Altruistic Preferences
-[*draft in preparation*]
+[[Streamlit-App (prelim)]](https://appmodel-dwngdhzfinbdrbgcqepth6.streamlit.app/) [*draft in preparation*]
 <a data-toggle="collapse" href="#collapse_noise" class="collapsed" aria-expanded="false">[abstract]</a>
 <div id="collapse_noise" class="panel-collapse collapse" style=""> <text style="font-size:smaller; text-justify: auto">
 I study altruistic choices --- trading-off own vs. another persons's payoff --- through the lens of a cognitively noisy Bayesian decision-maker. I propose a simple choice framework where cognitive noise can bias altruistic decisions. I run an experiment featuring a between-subject manipulation of cognitive noise, where the altruistic trade-off is cognitively more difficult. The treatment group shows a flatter association between changes in payoffs and choices and decides significantly more often for the other person's payment, i.e., is more altruistic. I explore the origins of this effect both with Bayesian hierarchical modelling and a number-comparison task, mirroring the "arithmetics" of the altruism choices absent any preference dimension. I find comparable treatment effects, which hints at an adaption of the perception of numerical magnitudes to the statistics of the experiment trials as the driver of the treatment effect. The structural estimations support this interpretation. I further explore the implications of a "cognitive lens" to altruism decisions and, e.g., find positive associations between measures of cognitive ability and choice variability.</text></div>
@@ -39,7 +39,7 @@ I study altruistic choices --- trading-off own vs. another persons's payoff --- 
 
 #### Trust in Fair Algorithms
 *with Mattia Cerrato, Marius Köppel and Alesia Vallenas*<br>
-[*pilot soon*] <a data-toggle="collapse" href="#collapse_ai" class="collapsed" aria-expanded="false">[abstract]</a>
+[*pilot completed*] <a data-toggle="collapse" href="#collapse_ai" class="collapsed" aria-expanded="false">[abstract]</a>
 <div id="collapse_ai" class="panel-collapse collapse" style=""> <text style="font-size:smaller">
 We study how humans incorporate advice by an algorithm in a setting where gender biases are known to play a large role: hiring decisions and labor market outcomes. In an online experiment, we investigate if humans, when tasked to predict e.g., the employment status of another person, rely more strongly on predictions by *fair* algorithms, i.e., whose accuracy is the same regardless of gender. Crucially, we omit the sensitive attribute of the person at hand for both the human and machine. We furthermore investigate the role of prior beliefs of group differences and are able to capture the optimal Bayesian action and can compare if human behavior favors fair predictions beyond what is statistically optimal.</text></div>
 
