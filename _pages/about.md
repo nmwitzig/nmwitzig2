@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student at the Johannes Gutenberg University in Mainz, Germany at [the chair of Daniel Schunk](https://www.public.economics.uni-mainz.de).
 
-I mostly work in Behavioral Economics with a strong interest in how machine learning methods tools can benefit (behavioral) economic analysis and how (behavioral) economics can inform current debates in discussions on fair and explainable AI.
+I mostly work in Behavioral Economics with a strong interest in how computational and machine learning tools can benefit (behavioral) economic analysis and how (behavioral) economics can inform current debates in discussions on fair and explainable AI.
 
 &nbsp;
 &nbsp;
